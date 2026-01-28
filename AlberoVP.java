@@ -1,8 +1,5 @@
-/**
- * Nome: Esra Aihab Farag Cognome: Elareibi
- * Matricola: 7170469
- */
-package Elareibi;
+
+package algorithm-project;
 import java.util.*;
 
 public class AlberoVP<T> {
